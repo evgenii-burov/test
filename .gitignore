@@ -1,0 +1,45 @@
+# Visual Studio temporary files, build results, and other generated files
+.vs/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.ilk
+*.ipch
+
+# Compiled object files and libraries
+*.obj
+*.o
+*.lib
+*.dll
+*.exe
+*.exp
+*.pdb
+*.idb
+*.tlog
+*.log
+
+# Precompiled headers
+*.pch
+*.gch
+
+# Build output directories
+Debug/
+Release/
+x64/
+Win32/
+
+# Other common files to ignore
+packages/ # If using NuGet packages
+build/
+bin/
+obj/
+*.bak
+*.tmp
+*.userprefs
